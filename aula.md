@@ -57,3 +57,12 @@ Apresentar os dados.
 # Estrutura de repetição
 
 - [x] While
+
+# Condicionais
+
+- [x] Switch
+
+## Módulos em Node.js:
+
+- [x] Importação de módulos (require, CommonJS)
+- [x] Bibiotecas 'inquirer' para criar prompts interativos
