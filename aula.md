@@ -36,11 +36,13 @@ Apresentar os dados.
 
 - [x] Operadores de atribuição de valor =
 - [x] Operador de contatenação +
+- [x] Operadores de comparação: ==  !=  < >  <=  >=
 
 ## Estrutura de dados:
 
 ## Arrays:
 - [x] Uma lista que contém qualquer tipo de dado
+- [x]  Métodos de array: push, find, forEach
 
 ### Objetos:
 
@@ -61,8 +63,13 @@ Apresentar os dados.
 # Condicionais
 
 - [x] Switch
+- [x] If / Else
 
 ## Módulos em Node.js:
 
 - [x] Importação de módulos (require, CommonJS)
 - [x] Bibiotecas 'inquirer' para criar prompts interativos
+
+## Programação assíncrona e promisses:
+
+- [x] Uso de funções assíncronas (async / awaint)
